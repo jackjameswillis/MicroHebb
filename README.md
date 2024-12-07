@@ -1,1 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jackjameswillis/Hopfield/blob/main/discrete-async-rHN.ipynb#scrollTo=ce68c3c5-8dbd-49b6-aeda-e44256477510)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jackjameswillis/MicroHebb/scratch.ipynb)
