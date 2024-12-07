@@ -1,3 +1,3 @@
-<a target="_blank" href="https://colab.research.google.com/github/jackjameswillis/MicroHebb/blob/631cfc23eac45921990e43848aecd39b9ac032d3/scratch.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/jackjameswillis/MicroHebb/blob/070d99979cd56e6d86b87f7b5cb303d8b25ed8dd/scratch.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
